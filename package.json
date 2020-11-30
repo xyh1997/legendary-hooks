@@ -1,0 +1,19 @@
+{
+  "name": "legendary-hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.umd.js",
+  "source": "src/index.ts",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "microbundle": "^0.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "microbundle watch",
+    "build": "microbundle",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
