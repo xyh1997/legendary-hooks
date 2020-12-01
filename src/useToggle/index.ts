@@ -1,3 +1,3 @@
-/**
- * 用于在两个状态值间切换的 Hook。
- */
+export default function useBoolean(defaultValue = false) {
+  console.log('FUCK ING');
+}

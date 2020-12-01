@@ -1,1 +1,3 @@
-export class MyMainCLass {}
+import useToggle from './useToggle';
+
+export { useToggle };
