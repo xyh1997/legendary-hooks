@@ -6,7 +6,8 @@
   "source": "src/index.ts",
   "types": "dist/index.d.ts",
   "dependencies": {
-    "microbundle": "^0.12.4"
+    "microbundle": "^0.12.4",
+    "react": "^17.0.1"
   },
   "devDependencies": {},
   "scripts": {
